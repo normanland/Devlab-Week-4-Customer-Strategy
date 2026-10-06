@@ -1,4 +1,4 @@
-# DevLab Week 4 — Customer Strategy Analytics
+# Devlab Week 4 — Customer Strategy Analytics
 
 ## Retain. Prioritize. Expand.
 
